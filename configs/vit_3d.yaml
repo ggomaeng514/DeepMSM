@@ -1,0 +1,15 @@
+Model:
+  arch: vit_base
+  img_size: [192, 224, 48]
+  patch_size: [16, 16, 8]
+  in_chans: 4
+  drop_path_rate: 0.4
+  ffn_layer: swiglufused
+  block_chunks: 4
+  qkv_bias: true
+  proj_bias: true
+  ffn_bias: true
+  num_register_tokens: 0
+  interpolate_antialias: false
+  interpolate_offset: 0.1
+  
