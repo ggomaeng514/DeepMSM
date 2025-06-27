@@ -70,7 +70,7 @@ def get_args_parser_in_notebook():
     # Manually provide arguments in the notebook
     args = parser.parse_args([
         '--config-file', './configs/vit_3d.yaml',
-        '--pretrained-weights', './checkpoints/all_data_checkpoint.pth',
+        '--pretrained-weights', './checkpoints/UPennTCGA_data_checkpoint.pth',
     ])
     
     return args
