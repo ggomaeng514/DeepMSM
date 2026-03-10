@@ -143,7 +143,7 @@ Grad-CAM activations align with manually annotated tumor regions (enhancing tumo
 
 - **Internal cohorts** include IDH-wildtype GBM, IDH-mutant astrocytoma, and IDH-mutant oligodendroglioma (2021 WHO classification)
 - **External cohort** is composed exclusively of IDH-wildtype glioblastoma
-- MRI sequences: T1, T1CE, T2, FLAIR (skull-stripped, 1 mm isotropic, co-registered, intensity-normalized)
+- MRI sequences: T1, T1CE, T2, FLAIR
 - Clinical variables: age, sex, KPS, EOR, WHO grade, IDH status, MGMT status, glioma pathology type
 
 > **Note:** The in-house SNUH and Severance datasets are not publicly available. Restricted access may be requested from the corresponding author. UCSF-PDGM and UPenn-GBM are publicly available datasets.
