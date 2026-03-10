@@ -93,7 +93,7 @@ FA-DeepMSM tackles all three simultaneously: a frozen self-supervised encoder mi
 ### Internal Validation
 
 | Model | Data | Avg. C-index |
-|---|---|---|---|
+|---|---|---|
 | CoxPH | Clinical | 0.749 |
 | CoxPH | Multimodal | 0.749 |
 | RSF | Multimodal | 0.727 |
