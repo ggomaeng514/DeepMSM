@@ -1,7 +1,6 @@
 # DeepMSM
 
 
-![image](https://github.com/user-attachments/assets/f08fd2de-e9c6-4942-ac04-a26390fddc8b)
 *Scientific Reports (2026) 16:4037* · [Paper](https://doi.org/10.1038/s41598-025-34134-9)
 
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
@@ -42,6 +41,8 @@ FA-DeepMSM tackles all three simultaneously: a frozen self-supervised encoder mi
 
 ## Model Architecture
 
+
+![image](https://github.com/user-attachments/assets/f08fd2de-e9c6-4942-ac04-a26390fddc8b)
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                        PRE-TRAIN PHASE                        │
