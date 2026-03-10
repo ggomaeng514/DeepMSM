@@ -1,9 +1,7 @@
 # DeepMSM
 
 
-*Scientific Reports (2026) 16:4037* · [Paper](https://doi.org/10.1038/s41598-025-34134-9)
-
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+*Scientific Reports (2026)* · [Paper](https://doi.org/10.1038/s41598-025-34134-9)
 
 ---
 
@@ -179,24 +177,6 @@ If you find FA-DeepMSM useful, please cite:
   doi       = {10.1038/s41598-025-34134-9}
 }
 ```
-
----
-
-## Authors
-
-| Name | Affiliation | Role |
-|---|---|---|
-| Minyoung Hwang | Korea University, Dept. of AI | First author, study design, model development |
-| Junhyeok Lee | Seoul National University, Cancer Biology | Co-first author, study design, statistical analysis |
-| Sihyeon Kim | Korea University, Dept. of AI | Model development |
-| Minchul Kim | Kangbuk Samsung Hospital, Radiology | Clinical data curation |
-| Seung Hong Choi | SNUH, Radiology | Clinical supervision |
-| Sung Soo Ahn | Yonsei University, Radiology | Clinical data curation |
-| **Changhee Lee** ✉ | Korea University, Dept. of AI | Co-corresponding, technical oversight |
-| **Kyu Sung Choi** ✉ | SNUH, Radiology | Co-corresponding, clinical supervision |
-
-✉ Corresponding authors: [changheelee@korea.ac.kr](mailto:changheelee@korea.ac.kr) · [ent1127@snu.ac.kr](mailto:ent1127@snu.ac.kr)
-
 ---
 
 ## License
